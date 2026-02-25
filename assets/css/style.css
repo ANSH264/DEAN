@@ -751,9 +751,9 @@
 .events .card:hover .card-body .card-title a {
   color: var(--accent-color);
 }
-.member-card {
+.memberss-card {
   position: relative;
-  background: #ffffff;
+  background: #f8eaea;
   /* Important */
   transition: all 0.3s ease;
 }
